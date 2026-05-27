@@ -53,4 +53,4 @@
 2. Склонируйте репозиторий:
    ```bash
    git clone https://github.com/bis1mus192/markdown-practice.git
-   cd markdown-practice
+  
