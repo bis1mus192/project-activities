@@ -52,5 +52,5 @@
 1. Убедитесь, что у вас установлен **Python 3.8+**.
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/bis1mus192/markdown-practice.git
+   [git clone https://github.com/bis1mus192/markdown-practice.git]
   
